@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 def main():
-    st.title("My First Streamlit App")
+    st.title("My First Streamlit App Test")
     
     # Add a slider
     value = st.slider("Select a number", 0, 100, 50)
